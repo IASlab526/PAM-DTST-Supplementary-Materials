@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Large raw data files; remove this rule if you want to upload raw data
+*.mat
+*.csv
+*.xlsx

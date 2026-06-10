@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Supplementary Materials for PAM-Based Elastic Actuation in Dual Tendon-Sheath Transmission Systems"
+message: "If you use these supplementary materials, please cite the associated journal paper."
+authors:
+  - family-names: "Yang"
+    given-names: "Chao-Hsiang"
+repository-code: "https://github.com/your-username/your-repository-name"
+version: "1.0.0"
+date-released: "2026-06-11"
